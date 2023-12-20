@@ -152,5 +152,15 @@ cython_debug/
 #.idea/
 
 #dataset
-data/
 dst-3.0_16_1_hh_database.csv
+ExchangeRates.csv
+hotels.csv
+bank_fin.csv
+holiday_data.csv
+osrm_data_test.csv
+osrm_data_train.csv
+test_data.csv
+train.csv
+weather_data.csv
+data_cleaning.csv
+customer_segmentation_project.csv
