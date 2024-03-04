@@ -1,5 +1,6 @@
-# My Data Sience projects
- 
+# My Data Science projects
+В данном репозитории представлены учебные проекты в рамках курса Data Science Pro от Skillfactory
+
 ## Проекты
 
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/Visna-dp/SF_DS/tree/main/project_1)
